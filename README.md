@@ -1,5 +1,5 @@
 # Banking Simulator
-This simulator was developed as a study project during the course "Object Oriented Programming".
+This simulator was developed as a study project as part of the course "Object Oriented Programming".
 It provides basic functionalities such as:
 - creating an account
 - making a payment
